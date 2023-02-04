@@ -1,0 +1,25 @@
+
+.DogDetails{
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+}
+
+.DogDetails img {
+  max-width:40%;
+  border-radius: 5%;
+  margin-top: 1rem;
+}
+
+.DogDetails li{
+  list-style-type: none;
+}
+
+.DogDetails{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+

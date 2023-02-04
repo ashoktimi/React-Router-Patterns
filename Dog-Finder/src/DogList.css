@@ -1,0 +1,14 @@
+.DogList{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.DogList h1{
+    font-size: medium;
+}
+
+.DogList div{
+    border: 1px solid black;
+    margin: 0.2rem;
+}
